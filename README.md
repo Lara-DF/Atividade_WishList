@@ -72,3 +72,9 @@ exclusão.
 Lara De Freitas
 
 11. Vídeo
+https://youtu.be/f6gbDk-jyno
+
+
+
+
+

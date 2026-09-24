@@ -67,7 +67,10 @@ exclusão.
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c8dc4d3d-9125-4b20-81db-ec0083ca9147" />
 
-![Uploading image.png…]()
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8c623639-3b64-4105-bbe8-3a714d688163" />
+
+
+
 
 
 

@@ -49,7 +49,7 @@ CSS
 
 tela inicial;
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ab43f8ec-85dc-44e7-86c8-61c799f80062" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/80903c6f-3e37-4a97-9e30-2928a5490c51" />
 
 cadastro;
 

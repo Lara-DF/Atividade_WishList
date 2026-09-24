@@ -2,18 +2,20 @@
 
 1. Nome do projeto
 
-Nome do sistema: WishList
-Uma descrição curta do que ele faz.
+Nome do sistema: Lista de Desejos (Wishlist)
+Produtos desejados com link, preço estimado, loja e status de comprado ou não.
 
-2. Sobre o projeto
-Explique em poucas linhas:
+2. Sobre o projeto:
 
-qual é a finalidade do sistema;
-para quem ele foi feito;
-o que o usuário consegue fazer.
+ Adiciona produtos à lista de desejos;
+ Informa o nome, link, preço estimado e loja do produto;
+ Visualiza os produtos cadastrados;
+ Edita as informações dos produtos;
+ Exclui produtos da lista;
+ Altera o status do produto entre pendente e comprado;
+ Acompanha os itens que já foram comprados e os que ainda estão pendentes.
 
-3. Funcionalidades
-Liste o que o sistema realmente faz:
+3. Funcionalidades:
 
  Cadastrar um novo desejo/produto
  Visualizar os desejos cadastrados
@@ -27,15 +29,14 @@ Liste o que o sistema realmente faz:
  Exibir a lista cadastrada
  Calcular/exibir informações da lista, se isso fizer parte do sistema
 
-4. CRUD
+4. CRUD:
 
 Create: cadastro de um novo desejo.
 Read: visualização dos desejos cadastrados.
 Update: edição dos dados de um desejo.
 Delete: exclusão de um desejo.
 
-5. Tecnologias utilizadas
-Coloque:
+5. Tecnologias utilizadas:
 
 PHP
 MySQL
@@ -68,7 +69,7 @@ exclusão.
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8373612d-2217-4daf-9cfe-0c755080f41a" />
 
 
-10. Integrante
+10. Integrante:
 Lara De Freitas
 
 11. Vídeo

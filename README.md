@@ -57,15 +57,16 @@ cadastro;
 
 lista;
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/182db1c6-4558-4da5-bec6-53962e0e65ad" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/db8cb6ce-26b1-4938-a749-b0a4970b46ae" />
 
 edição;
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7c1e95e0-e27f-4751-ba2e-7ab66c59c880" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f565c01c-7634-4040-953e-459de16e3496" />
 
 exclusão.
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5c977030-4d26-4228-a3d7-2afd367b0da3" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c8dc4d3d-9125-4b20-81db-ec0083ca9147" />
+
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8373612d-2217-4daf-9cfe-0c755080f41a" />
 
 

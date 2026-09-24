@@ -47,23 +47,23 @@ CSS
 
 6. Demonstração
 
-tela inicial;
+tela inicial:
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/80903c6f-3e37-4a97-9e30-2928a5490c51" />
 
-cadastro;
+cadastro:
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9284fb98-cabd-402b-9dc3-4e57fd97fc42" />
 
-lista;
+lista:
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/db8cb6ce-26b1-4938-a749-b0a4970b46ae" />
 
-edição;
+edição:
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f565c01c-7634-4040-953e-459de16e3496" />
 
-exclusão.
+exclusão:
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c8dc4d3d-9125-4b20-81db-ec0083ca9147" />
 
